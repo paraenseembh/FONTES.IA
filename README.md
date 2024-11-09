@@ -3,8 +3,8 @@
 IA generativa focada em tecnologias de saneamento e meio ambiente, alimentada usando machine learning e webscraping de redes sociais. Focada em análise de infraestrutura e clima através de frameworks operacionais inovadores.
 ## Integrantes
 
-Lucas Rafael P. do Nascimento
-Rafael Altaf dos Santos
+* Lucas Rafael P. do Nascimento
+* Rafael Altaf dos Santos
 
 ## Instruções de utilização
 
